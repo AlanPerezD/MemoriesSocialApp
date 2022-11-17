@@ -11,4 +11,3 @@ app.use(cors());
 
 const CONNECTION = "mongodb+srv://root:<password>@cluster0.wcmecmu.mongodb.net/?retryWrites=true&w=majority";
 
-const a = 1;
